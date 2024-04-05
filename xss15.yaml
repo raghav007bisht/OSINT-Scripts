@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><body onhashchange=alert(1)><a href=#x>click this!#x
+  description: </div></p><div draggable="true" contenteditable>drag me</div><textarea ondragover=alert(1) contenteditable>drop here</textarea>
   version: production
 basePath: /JSSResource/
 produces:
