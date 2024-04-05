@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><img src=1 onerror=alert(1)>
+  description: </div></p><image/src/onerror=prompt(8)>
   version: production
 basePath: /JSSResource/
 produces:
