@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><a href='javascript:confirm(1)'>Click Me</a>
+  description: </div></p><body onhashchange=alert(1)><a href=#x>click this!#x
   version: production
 basePath: /JSSResource/
 produces:
