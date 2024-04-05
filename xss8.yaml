@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><form><button formaction=javascript:alert(1)>click</form>
+  description: </div></p><img src=1 onerror=alert(1)>
   version: production
 basePath: /JSSResource/
 produces:
