@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: '"/></div></p><script>alert(1)</script><!--
+  description: </div></p><a href='javascript:alert(1)'>Click Me</a>
   version: production
 basePath: /JSSResource/
 produces:
