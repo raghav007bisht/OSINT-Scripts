@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: </div></p><marquee><h1>HACKED+BY+RAGHAV</h1></marquee>
+  description: </div></p><marquee><h1>HACKED%20BY%20RAGHAV</h1></marquee>
   version: production
 basePath: /JSSResource/
 produces:
